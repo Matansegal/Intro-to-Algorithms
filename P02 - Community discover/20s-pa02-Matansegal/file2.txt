@@ -1,0 +1,7 @@
+or example.txt
+ow output.txt
+dfs A
+bfs B
+mc D E
+mc A H 
+dc 

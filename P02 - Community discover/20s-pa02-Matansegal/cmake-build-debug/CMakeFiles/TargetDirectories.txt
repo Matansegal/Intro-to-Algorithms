@@ -1,0 +1,3 @@
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/cmake-build-debug/CMakeFiles/graphs.dir
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

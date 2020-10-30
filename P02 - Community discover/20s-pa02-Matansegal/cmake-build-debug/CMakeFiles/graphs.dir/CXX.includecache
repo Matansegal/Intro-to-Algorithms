@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/edge.h
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/graph.h
+iostream
+-
+map
+-
+algorithm
+-
+vector
+-
+queue
+-
+stack
+-
+graphNode.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/graphNode.h
+edge.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/edge.h
+set
+-
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/graphNode.h
+vector
+-
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+graph.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/graph.h
+utilities.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/utilities.h
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/utilities.cpp
+utilities.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/utilities.h
+string
+-
+
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/utilities.h
+fstream
+-
+graph.h
+C:/Users/matan/Documents/school/7 Spring 2020/CS3353/P02/20s-pa02-doover-Matansegal/graph.h
+
